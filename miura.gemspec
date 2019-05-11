@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["kei"]
   spec.email         = ["kei.takakuda.0415@icloud.com"]
 
-  spec.summary       = 'remove conducive before_action'
-  spec.description   = 'as much as possible remove before_action each controller'
+  spec.summary       = 'thinking about Miura'
+  spec.description   = 'thinking about Miura'
   spec.homepage      = 'https://github.com/takakuda/miura'
 
   # Specify which files should be added to the gem when it is released.
