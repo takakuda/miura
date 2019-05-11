@@ -3,7 +3,15 @@ RSpec.describe Miura do
     expect(Miura::VERSION).not_to be nil
   end
 
-  it "does something useful" do
-    expect(false).to eq(true)
+  describe "inpression" do
+    it "return inpression" do
+      expect(Miura.inpression).to eq "What a beatuiful site!"
+    end
+  end
+
+  describe "recomend" do
+    it "return recomend" do
+      expect(Miura.recomend).to eq "maholova"
+    end
   end
 end
