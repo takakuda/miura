@@ -6,6 +6,6 @@ module Miura
   end
 
   def self.recomend
-    'maholova hotel'
+    'maholova'
   end
 end
