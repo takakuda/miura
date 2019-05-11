@@ -1,6 +1,11 @@
 require "miura/version"
 
 module Miura
-  class Error < StandardError; end
-  # Your code goes here...
+  def self.inpression
+    'What a beatuiful site!'
+  end
+
+  def self.recomend
+    'maholova hotel'
+  end
 end
