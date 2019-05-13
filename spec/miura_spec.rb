@@ -5,7 +5,7 @@ RSpec.describe Miura do
 
   describe "inpression" do
     it "return inpression" do
-      expect(Miura.inpression).to eq "What a beatuiful site!"
+      expect(Miura.inpression).to eq "What a beautiful site!"
     end
   end
 

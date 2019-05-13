@@ -1,11 +1,13 @@
 require "miura/version"
 
 module Miura
-  def self.inpression
-    'What a beatuiful site!'
-  end
+  class << self
+    def inpression
+      'What a beautiful site!'
+    end
 
-  def self.recomend
-    'maholova'
+    def recomend
+      'maholova'
+    end
   end
 end
