@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    miura (0.1.0)
+    miura (0.1.2)
 
 GEM
   remote: https://rubygems.org/
