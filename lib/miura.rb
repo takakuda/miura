@@ -6,7 +6,7 @@ module Miura
       'What a beautiful site!'
     end
 
-    def recomend
+    def recommend
       'maholova'
     end
   end

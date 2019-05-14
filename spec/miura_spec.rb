@@ -9,8 +9,8 @@ RSpec.describe Miura do
     end
   end
 
-  describe "recomend" do
-    it "return recomend" do
+  describe "recommend" do
+    it "return recommend" do
       expect(Miura.recomend).to eq "maholova"
     end
   end
